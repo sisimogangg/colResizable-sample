@@ -1,3 +1,3 @@
 $(function(){
-    $("#mytable").colResizable();
+    $("table").colResizable();
 });
